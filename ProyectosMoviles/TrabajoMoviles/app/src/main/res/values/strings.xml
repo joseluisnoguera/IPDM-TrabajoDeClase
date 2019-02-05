@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">TrabajoMoviles</string>
+    <string name="Empty" />
+
+    //Main
+    <string name="menuopt1">Trabajo práctico 1</string>
+    <string name="menuopt2">Trabajo práctico 2</string>
+    <string name="menuopt3">Trabajo práctico 3</string>
+    <string name="menuopt4">Trabajo práctico 4 y 5</string>
+    <string name="welcome">Bienvenido, seleccione un trabajo a mostrarse</string>
+
+    //Fragment 1 tp1
+    <string name="TextAyudaTp1">Realice tap sobre alguno de los botones para ver un mensaje secreto</string>
+    <string name="buttonLogText">Mostrar en log</string>
+    <string name="buttonToastText">Mostrar Toast</string>
+
+    //Fragment 2 tp2
+    <string name="TextAyudaTp2">Carge un contacto o realice una multiplicación</string>
+    <string name="getContactText">Contacto</string>
+    <string name="multiplication">Multiplicación</string>
+    <string name="textMultiplication">Resultado</string>
+    <string name="textContact">Contacto</string>
+
+    //Multiply_Activity
+    <string name="multiplicatorExplanation">Ingrese dos valores para luego multiplicarlos \n \n Por defecto: 0</string>
+    <string name="multiplyBtn">Multiplicar</string>
+    <string name="hint_multiplicator">0123456789</string>
+
+    //Fragment 3 tp3
+    <string name="TextAyudaTp3">Utilice el contador de segundos \n \n ¡Resiste a cerrados espontaneos!</string>
+    <string name="startCounterText">Comenzar</string>
+    <string name="stopCounterText">Parar</string>
+    <string name="resetCounterText">Restaurar</string>
+
+    //Fragment 4 tp4 y tp5
+    <string name="TextAyudaTp4Tp5">Prueba usar cualquier de nuestros servicios \n \n Cuentan cada tres segundos</string>
+    <string name="intentServiceBtnText">Intent Service</string>
+    <string name="serviceBtnText">Service</string>
+    <string name="textViewInfo">Este servicio puede ser llamado desde otras app \n ¡Llame ya!</string>
+
+    //BoundServiceClient
+    <string name="boundServiceText">Obtener aleatorio</string>
+
+</resources>

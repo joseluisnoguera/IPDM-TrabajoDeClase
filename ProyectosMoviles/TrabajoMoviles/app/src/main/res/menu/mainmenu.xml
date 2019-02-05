@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuopt1"
+        android:title="@string/menuopt1"
+        app:showAsAction="collapseActionView" />
+    <item
+        android:id="@+id/menuopt2"
+        android:title="@string/menuopt2"
+        app:showAsAction="collapseActionView" />
+    <item
+        android:id="@+id/menuopt3"
+        android:title="@string/menuopt3"
+        app:showAsAction="collapseActionView" />
+    <item
+        android:id="@+id/menuopt4"
+        android:title="@string/menuopt4"
+        app:showAsAction="collapseActionView" />
+</menu>

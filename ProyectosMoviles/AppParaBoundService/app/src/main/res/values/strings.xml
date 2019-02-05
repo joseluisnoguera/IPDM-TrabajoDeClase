@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppParaBoundService</string>
+    <string name="generate">Generar Aleatorio</string>
+    <string name="welcome">Hello world!</string>
+</resources>
